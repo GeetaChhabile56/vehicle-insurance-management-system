@@ -1,1 +1,1 @@
-package com.edu.SpringBootVehicleApp.controller;
+package com.edu.SpringBootVehicleApp.repository;
