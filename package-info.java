@@ -1,1 +1,1 @@
-package com.edu.SpringBootVehicleApp.repository;
+package com.edu.SpringBootVehicleApp.serviceImpl;
